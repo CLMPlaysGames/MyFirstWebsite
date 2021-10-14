@@ -1,0 +1,44 @@
+body {
+background-color: blue;
+
+}
+
+img {
+border-radius: 50%;
+width: 30%;
+border-width: 1px;
+border-style: solid;
+border-color: black;
+display: block;
+margin-left: 25%;
+margin-right: 25%;
+}
+
+#header {
+   background-color: yellow; 
+    text-align: center;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: blue;
+}
+
+#list {
+   background-color: red;
+   border-style: solid; 
+   border-color: aqua;
+    border-width: 1px;
+    margin-left: 35%;
+
+}
+
+#navlinks {
+    position: fixed;
+}
+
+#footer {
+    background-color: yellow;
+    text-align: center;
+    border-style: solid;
+    border-color: lime;
+    border-width: 2px;
+}
