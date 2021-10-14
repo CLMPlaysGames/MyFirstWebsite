@@ -1,6 +1,5 @@
 body {
 background-color: lime;
-
 }
 
 img {
@@ -33,7 +32,6 @@ margin-right: 25%;
 
 #navlinks {
     position: fixed;
-    background-color: yellow;
 }
 
 #footer {
